@@ -1,0 +1,30 @@
+
+
+body
+{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hero_section
+{
+  
+background:no-repeat center ;
+background-image: linear-gradient(rgba(207, 204, 247, 0.512), rgba(229, 219, 251, 0.54)),
+                  url(images/image_bg.jpg);
+
+  height: 500px; /* You must set a specified height */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  text-align: center;
+}
+
+h1
+{
+font-size: 70px; 
+font-weight: 700;
+padding-top: 10%;
+}
+
+p
+{
+  font-size: 30px; 
+}
